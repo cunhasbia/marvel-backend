@@ -1,0 +1,26 @@
+{
+  "name": "marvel-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/cunhasbia/marvel-backend.git",
+  "author": "Bianca Cunha",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.15.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-config-prettier": "^7.0.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-prettier": "^3.3.0",
+    "nodemon": "^2.0.6",
+    "prettier": "^2.2.1",
+    "sucrase": "^3.16.0"
+  }
+}
