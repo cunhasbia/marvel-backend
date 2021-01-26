@@ -1,8 +1,8 @@
 # Marvel App | back-end
 
-Back-end built to create a Rest API that consumes the official [Marvel Comics API](https://developer.marvel.com/docs). Developed for a challenge during studies at Growdev.
+Back-end of Marvel application - built to create a Rest API that consumes the official [Marvel Comics API](https://developer.marvel.com/docs). Project developed for a challenge during studies at Growdev.
 
-You can also [click here](https://github.com/cunhasbia/marvel-frontend) to go to the **front-end** repository of this application. Run both projects together.
+You can also [click here](https://github.com/cunhasbia/marvel-frontend) to go to the **front-end** repository of this application. Run both projects together.<hr>
 
 ## :computer: Functionalities/guidelines
 ✔️ A route of **character list**, accepting parameters of filters and pagination;<br>
